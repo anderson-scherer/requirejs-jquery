@@ -1,0 +1,12 @@
+{
+  "name": "requirejs",
+  "version": "1.0.0",
+  "description": "Proof of concept with requireJS, jQuery, and knockoutJS application",  
+  "scripts": {
+    "start": "node tools/server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
